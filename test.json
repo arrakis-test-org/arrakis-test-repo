@@ -1,0 +1,44 @@
+[
+    {
+        "No": 1,
+        "UniqueId": "931734",
+        "Date": "2023-12-12T13:29:37",
+        "Applicable": yes
+    },
+    {
+        "No": 2,
+        "UniqueId": "581561",
+        "Date": "2023-12-12T13:22:19",
+        "Applicable": yes
+    },
+    {
+        "No": 3,
+        "UniqueId": "900386",
+        "Date": "2023-12-12T13:22:16",
+        "Applicable": no
+    },
+    {
+        "No": 4,
+        "UniqueId": "398321",
+        "Date": "2023-12-12T13:22:09",
+        "Applicable": yes
+    },
+    {
+        "No": 5,
+        "UniqueId": "013794",
+        "Date": "2023-12-12T13:21:57",
+        "Applicable": no
+    },
+    {
+        "No": 6,
+        "UniqueId": "104777",
+        "Date": "2023-12-12T13:21:43",
+        "Applicable": yes
+    },
+    {
+        "No": 7,
+        "UniqueId": "412050",
+        "Date": "2023-12-12T13:21:31",
+        "Applicable": yes
+  },
+]
